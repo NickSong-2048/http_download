@@ -1,0 +1,11 @@
+## this script is paet of the ues project.
+
+#owner:sk
+
+#what it can do?
+	it can randomly chose a url from .config.ini , begin this http download and
+	keep logging into ./log/log.txt.
+	
+	with http Range header ,it can redownload from last save point; and it can 
+	keep downloading even without a stable internet connetion.
+	
